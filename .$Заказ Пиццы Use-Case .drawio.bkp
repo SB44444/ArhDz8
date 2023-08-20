@@ -1,0 +1,58 @@
+<mxfile host="Electron" modified="2023-08-19T22:52:53.886Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="2pKCkfodROVAq7e0_M9B" version="21.6.8" type="device">
+  <diagram name="Страница — 1" id="s434RWu2uvfjdOMgeDoQ">
+    <mxGraphModel dx="1155" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="d24N3o7evqY5tlvTbPBX-10" value="client" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="540" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d24N3o7evqY5tlvTbPBX-11" value="Заказ на сайте" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="555" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d24N3o7evqY5tlvTbPBX-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="d24N3o7evqY5tlvTbPBX-11" target="d24N3o7evqY5tlvTbPBX-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d24N3o7evqY5tlvTbPBX-17" value="Просмотр меню" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="480" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d24N3o7evqY5tlvTbPBX-18" value="Регистрация" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="340" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d24N3o7evqY5tlvTbPBX-19" value="Обращение в поддержку" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d24N3o7evqY5tlvTbPBX-20" value="Просмотр доставки" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="410" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d24N3o7evqY5tlvTbPBX-21" value="Просмотр сайта" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="270" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d24N3o7evqY5tlvTbPBX-22" value="Заказ по звонку" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="630" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d24N3o7evqY5tlvTbPBX-23" value="Отмена заказа" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="850" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d24N3o7evqY5tlvTbPBX-24" value="Подтверждение заказа" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="700" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d24N3o7evqY5tlvTbPBX-25" value="Добавление в корзину" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="555" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d24N3o7evqY5tlvTbPBX-26" value="Выбор оплаты" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="555" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d24N3o7evqY5tlvTbPBX-27" value="Выбор доставки" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="430" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d24N3o7evqY5tlvTbPBX-28" value="Оплата" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="555" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d24N3o7evqY5tlvTbPBX-29" value="Оценка качества" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="780" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
